@@ -1,4 +1,4 @@
- <img align="left" width="260" alt="design_pattern_logo" margin="10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/assets/master/design-patterns-in-java/main_logo.svg" />
+ <img align="left" width="240" alt="design_pattern_logo" margin="10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/assets/master/design-patterns-in-java/main_logo.svg" />
 
 # Design Patterns :zap:
 
