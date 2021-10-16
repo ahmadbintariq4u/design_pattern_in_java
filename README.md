@@ -10,3 +10,16 @@ According to Christoper Alexander; each patterns describe a problem which occurs
 > In simple words; A patterns is basically a technique to solve a specific problem. Through this repository we'll learn how the design patterns works and where we need to use it. Fork and start the it.
 
 **Designing a Object-Oriented software is hard but Designing a Reusable Object-Oriented software is even harder**
+
+_A pattern consists of following things;_
+1. Name
+2. Problem
+3. Solution
+4. Consequences
+
+
+## Classifications of Patterns
+Patterns can have either;
+1. Creational _(concern the process of object creation)_
+2. Structural _(concern the composition of classes and objects)_
+3. Behavioral _(concers the interaction between the classes and objects)_
