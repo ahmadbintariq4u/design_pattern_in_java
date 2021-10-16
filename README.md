@@ -20,6 +20,6 @@ _A pattern consists of following things;_
 
 ## Classifications of Patterns
 Patterns can have either;
-1. Creational _(concern the process of object creation)_
-2. Structural _(concern the composition of classes and objects)_
-3. Behavioral _(concers the interaction between the classes and objects)_
+1. Creational _(concern with the process of object creation)_
+2. Structural _(concern with the composition of classes and objects)_
+3. Behavioral _(concern with the interaction and responsibilities between the classes and objects)_
